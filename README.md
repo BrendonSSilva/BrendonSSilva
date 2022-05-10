@@ -26,4 +26,4 @@
 
   ##
   
-  Me chamo Brendon Schimmelpfennig da Silva e estou iniciando no mercado da programação como programador front-end. Terminei o curso de JavaScript da B7Web e estou me especializando cada vez mais na linguagem com projetos. Desejo cada vez obter mais conhecimento e experiência.
+  Me chamo Brendon Schimmelpfennig da Silva e estou iniciando no mercado da programação como programador front-end. Terminei o curso de JavaScript da B7Web e estou me especializando cada vez mais na linguagem fazendo projetos. Meu inglês está no nível básico/intermediário. Sempre disposto a obter cada vez obter mais conhecimento e experiência.
