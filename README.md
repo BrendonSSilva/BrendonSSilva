@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando ReactJs
-- Dê uma olhada no meu currículo(função dark-mode utilizando local storage😉): https://brendonssilva.github.io/Landing-Page-Curriculo/
+- Dê uma olhada no meu currículo(função dark-mode utilizando local storage😉): https://cvdebrendon.web.app
 <div>
   <a href="https://github.com/brendonssilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendonssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
