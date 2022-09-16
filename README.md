@@ -1,7 +1,7 @@
 ### Olá! Eu sou Brendon Silva
 
 - 🔭 Trabalho com front-end
-- 🌱 Estudando ReactJs
+- 🌱 Estudando NextJs
 - Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
 <div>
   <a href="https://github.com/brendonssilva">
