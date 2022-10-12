@@ -2,6 +2,7 @@
 
 - 🔭 Trabalho com front-end
 - 🌱 Estudando NextJs
+- Inglês A2
 - 👨‍💼💰📈 Trabalhando em um projeto próprio
 - Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
 <div>
