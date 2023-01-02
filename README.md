@@ -1,6 +1,6 @@
 ### Olá! Eu sou Brendon Silva
 
-- 🔭 Trabalho com front-end (ReactJs, NextJs, TypeScript, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components)
+- 🔭 Trabalho com front-end (ReactJs, NextJs, TypeScript, Nullstack, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components)
 - Inglês A2
 - 👨‍💼💰📈 Trabalhando em um projeto próprio
 - Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
