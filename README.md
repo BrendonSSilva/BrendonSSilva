@@ -1,6 +1,6 @@
 ### Hey, there! I'm Brendon Silva
 
-- 🔭 Front-End: ReactJs, NextJs, TypeScript, Nullstack, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components
+- 🔭 Front-End: Nullstack, ReactJs, NextJs, TypeScript, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components
 - English A2
 <div>
   <a href="https://github.com/brendonssilva">
