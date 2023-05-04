@@ -1,7 +1,6 @@
 ### Hi, there! I'm Brendon Silva
 
 - 🔭 Front-End: Nullstack, ReactJs, NextJs, TypeScript, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components
-- English A2
 <div>
   <a href="https://github.com/brendonssilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendonssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
