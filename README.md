@@ -1,10 +1,9 @@
-### Olá! Eu sou Brendon Silva
+### Hey, there! I'm Brendon Silva
 
-- 🔭 Trabalho com front-end (ReactJs, NextJs, TypeScript, Nullstack, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components)
+- 🔭 Front-End: ReactJs, NextJs, TypeScript, Nullstack, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components
 - English A2
-- 👨‍💼💰📈 Trabalhando em um projeto próprio
 - My English CV: https://brendonssilva.github.io/brendon/
-- Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
+- PT-BR: Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
 <div>
   <a href="https://github.com/brendonssilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendonssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,7 +27,3 @@
   <a href = "mailto:brendon.dasilva03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/brendon-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
-
-  ##
-  
-  Me chamo Brendon Schimmelpfennig da Silva e estou no mercado da programação como programador front-end. Meu inglês está no nível intermediário. Sempre disposto a obter cada vez obter mais conhecimento e experiência.
