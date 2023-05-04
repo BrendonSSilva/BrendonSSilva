@@ -2,8 +2,6 @@
 
 - 🔭 Front-End: ReactJs, NextJs, TypeScript, Nullstack, HTML, CSS, Bootstrap 5, TailwindCSS, Styled-Components
 - English A2
-- My English CV: https://brendonssilva.github.io/brendon/
-- PT-BR: Dê uma olhada no meu currículo em ReactJS (com função dark-mode utilizando local storage😉): https://brendonsilvas.web.app
 <div>
   <a href="https://github.com/brendonssilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brendonssilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
