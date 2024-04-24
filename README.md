@@ -1,4 +1,4 @@
-💼CEO/Full-Stack Developer at: <a href='https://wwww.localzoom.com.br](https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file' target='_blank'>Local Zoom</a>
+💼CEO/Full-Stack Developer at: <a href='https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file' target='_blank'>Local Zoom</a>
 
 - 🔭 Front-End: <a href='https://nullstack.app/' target='_blank'>Nullstack</a>, ReactJs, NextJs, TypeScript, HTML, CSS, Bootstrap 5, TailwindCSS, Nullwind, Styled-Components
 - Back-End: NodeJs, MongoDB
