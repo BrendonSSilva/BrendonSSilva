@@ -1,5 +1,4 @@
-Open to Work
-💼Full-Stack Developer at: <a href='https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file' target='_blank'>Local Zoom</a>
+💼My LinkedIn: <a href='https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file](https://www.linkedin.com/in/brendon-silva' target='_blank'>LinkedIn</a>
 
 - 🔭 Front-End: ReactJs, JavaScript, TypeScript, <a href='https://nullstack.app/' target='_blank'>Nullstack</a> NextJs, HTML, CSS, Bootstrap 5, TailwindCSS, Nullwind, Styled-Components
 - Back-End: NodeJs, MongoDB
