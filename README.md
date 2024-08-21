@@ -1,5 +1,5 @@
 💼My LinkedIn: <a href='https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file](https://www.linkedin.com/in/brendon-silva' target='_blank'>LinkedIn</a>
-
+Job: <a href='[https://github.com/BrendonSSilva/Local-Zoom?tab=readme-ov-file](https://www.linkedin.com/in/brendon-silva](https://www.linkedin.com/company/agedesws/)' target='_blank'>AGEDES</a>
 - 🔭 Front-End: ReactJs, JavaScript, TypeScript, <a href='https://nullstack.app/' target='_blank'>Nullstack</a> NextJs, HTML, CSS, Bootstrap 5, TailwindCSS, Nullwind, Styled-Components
 - Back-End: NodeJs, MongoDB
     ##
