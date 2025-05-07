@@ -1,6 +1,5 @@
-💼My LinkedIn: <a href='https://www.linkedin.com/in/brendon-silva' target='_blank'>LinkedIn</a><br/>
+💼LinkedIn: <a href='https://www.linkedin.com/in/brendon-silva' target='_blank'>LinkedIn</a><br/>
 📚 Studying Software Engineering at UNINTER <br/>
-Full-Stack Developer at <a href='https://www.linkedin.com/company/agedesws' target='_blank'>AGEDES</a>
 - 🔭 Front-End: ReactJs, JavaScript, TypeScript, <a href='https://nullstack.app/' target='_blank'>Nullstack</a> NextJs, HTML, CSS, Bootstrap 5, TailwindCSS, Nullwind, Styled-Components
 - Back-End: NodeJs, PHP, MySQL, MongoDB
     ##
